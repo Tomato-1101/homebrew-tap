@@ -1,6 +1,6 @@
 cask "voicekey" do
-  version "2.4.0"
-  sha256 "b64ff30a01a0364b6a2445bce3f12c2a10c97df2d636dde6c69f44269c5eed05"
+  version "2.4.1"
+  sha256 "2002d927a301158af00d3311c50bfbd27b2bc4699fe098f7efba9d87255c2fd4"
 
   url "https://github.com/Tomato-1101/voicekey/releases/download/v#{version}/voicekey-#{version}.zip"
   name "voicekey"
